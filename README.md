@@ -2,7 +2,7 @@
 DePaul CSC 495 Final Project
 
 ## Understanding of Soccer Player Transfers in 11 European Leagues
-Gaoyuan Huang, Letian Xu, Xiaoxiao Deng
+by Gaoyuan Huang, Letian Xu, Xiaoxiao Deng
 
 ## Introduction
 For a soccer club, it is very important to consider the transfers of players during summers and winters. Player transfers will produce a great impact on both the loyalty of players in a team and the development of leagues and clubs.
