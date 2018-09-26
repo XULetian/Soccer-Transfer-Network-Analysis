@@ -1,0 +1,24 @@
+---
+title: "Community Plot"
+author: "Letian Xu"
+date: "6/4/2018"
+output: html_document
+---
+
+```{r}
+library(knitr)
+setwd("/Users/marvin/Desktop/CSC 495/project")
+read_chunk("Community Plot.R")
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+###Load the libraries
+  
+```{r C1, results="hide", warning=FALSE, message=FALSE}
+```
+
+```{r C2}
+```
+
+```{r C3}
+```
