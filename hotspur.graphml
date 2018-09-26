@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_League" for="node" attr.name="League" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="double"/>
+  <key id="e_Fee" for="edge" attr.name="Fee" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">4</data>
+      <data key="v_label">Sevilla FC</data>
+      <data key="v_League">Spain LIGA BBVA</data>
+      <data key="v_id">4</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">5</data>
+      <data key="v_label">Hamburger SV</data>
+      <data key="v_League">Germany 1. Bundesliga</data>
+      <data key="v_id">5</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">13</data>
+      <data key="v_label">TSG 1899 Hoffenheim</data>
+      <data key="v_League">Germany 1. Bundesliga</data>
+      <data key="v_id">13</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">14</data>
+      <data key="v_label">West Ham United</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">14</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">16</data>
+      <data key="v_label">Tottenham Hotspur</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">16</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">18</data>
+      <data key="v_label">Wigan Athletic</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">18</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">21</data>
+      <data key="v_label">Sunderland</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">21</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">30</data>
+      <data key="v_label">Olympique Lyonnais</data>
+      <data key="v_League">France Ligue 1</data>
+      <data key="v_id">30</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">36</data>
+      <data key="v_label">Newcastle United</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">36</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">39</data>
+      <data key="v_label">Roma</data>
+      <data key="v_League">Italy Serie A</data>
+      <data key="v_id">39</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">40</data>
+      <data key="v_label">Portsmouth</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">40</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">41</data>
+      <data key="v_label">Manchester City</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">41</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">42</data>
+      <data key="v_label">Racing Santander</data>
+      <data key="v_League">Spain LIGA BBVA</data>
+      <data key="v_id">42</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">46</data>
+      <data key="v_label">Real Madrid CF</data>
+      <data key="v_League">Spain LIGA BBVA</data>
+      <data key="v_id">46</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">50</data>
+      <data key="v_label">Lazio</data>
+      <data key="v_League">Italy Serie A</data>
+      <data key="v_id">50</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">62</data>
+      <data key="v_label">FC Twente</data>
+      <data key="v_League">Netherlands Eredivisie</data>
+      <data key="v_id">62</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">70</data>
+      <data key="v_label">Sporting CP</data>
+      <data key="v_League">Portugal Liga ZON Sagres</data>
+      <data key="v_id">70</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">74</data>
+      <data key="v_label">Wolverhampton Wanderers</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">74</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">82</data>
+      <data key="v_label">Liverpool</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">82</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">89</data>
+      <data key="v_label">Hull City</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">89</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">90</data>
+      <data key="v_label">Napoli</data>
+      <data key="v_League">Italy Serie A</data>
+      <data key="v_id">90</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">91</data>
+      <data key="v_label">Livorno</data>
+      <data key="v_League">Italy Serie A</data>
+      <data key="v_id">91</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">95</data>
+      <data key="v_label">S.C. Olhanense</data>
+      <data key="v_League">Portugal Liga ZON Sagres</data>
+      <data key="v_id">95</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">99</data>
+      <data key="v_label">Manchester United</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">99</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">101</data>
+      <data key="v_label">Arsenal</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">101</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">105</data>
+      <data key="v_label">Stoke City</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">105</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">107</data>
+      <data key="v_label">Birmingham City</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">107</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">113</data>
+      <data key="v_label">AS Saint-Étienne</data>
+      <data key="v_League">France Ligue 1</data>
+      <data key="v_id">113</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">116</data>
+      <data key="v_label">Valencia CF</data>
+      <data key="v_League">Spain LIGA BBVA</data>
+      <data key="v_id">116</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">123</data>
+      <data key="v_label">Standard de Liège</data>
+      <data key="v_League">Belgium Jupiler League</data>
+      <data key="v_id">123</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">128</data>
+      <data key="v_label">Paris Saint-Germain</data>
+      <data key="v_League">France Ligue 1</data>
+      <data key="v_id">128</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">133</data>
+      <data key="v_label">Montpellier Hérault SC</data>
+      <data key="v_League">France Ligue 1</data>
+      <data key="v_id">133</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">135</data>
+      <data key="v_label">Villarreal CF</data>
+      <data key="v_League">Spain LIGA BBVA</data>
+      <data key="v_id">135</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">136</data>
+      <data key="v_label">Fulham</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">136</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">138</data>
+      <data key="v_label">Celtic</data>
+      <data key="v_League">Scotland Premier League</data>
+      <data key="v_id">138</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">141</data>
+      <data key="v_label">Chelsea</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">141</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">145</data>
+      <data key="v_label">Burnley</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">145</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">149</data>
+      <data key="v_label">Ajax</data>
+      <data key="v_League">Netherlands Eredivisie</data>
+      <data key="v_id">149</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">155</data>
+      <data key="v_label">AS Monaco</data>
+      <data key="v_League">France Ligue 1</data>
+      <data key="v_id">155</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">157</data>
+      <data key="v_label">Bayer 04 Leverkusen</data>
+      <data key="v_League">Germany 1. Bundesliga</data>
+      <data key="v_id">157</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">158</data>
+      <data key="v_label">1. FSV Mainz 05</data>
+      <data key="v_League">Germany 1. Bundesliga</data>
+      <data key="v_id">158</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">165</data>
+      <data key="v_label">Aston Villa</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">165</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">171</data>
+      <data key="v_label">Everton</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">171</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">176</data>
+      <data key="v_label">Blackburn Rovers</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">176</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">178</data>
+      <data key="v_label">Toulouse FC</data>
+      <data key="v_League">France Ligue 1</data>
+      <data key="v_id">178</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">180</data>
+      <data key="v_label">1. FC Köln</data>
+      <data key="v_League">Germany 1. Bundesliga</data>
+      <data key="v_id">180</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">200</data>
+      <data key="v_label">Lierse SK</data>
+      <data key="v_League">Belgium Jupiler League</data>
+      <data key="v_id">200</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">220</data>
+      <data key="v_label">Norwich City</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">220</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">221</data>
+      <data key="v_label">Queens Park Rangers</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">221</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">224</data>
+      <data key="v_label">Gil Vicente FC</data>
+      <data key="v_League">Portugal Liga ZON Sagres</data>
+      <data key="v_id">224</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">229</data>
+      <data key="v_label">Swansea City</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">229</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">236</data>
+      <data key="v_label">Southampton</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">236</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">245</data>
+      <data key="v_label">Reading</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">245</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">247</data>
+      <data key="v_label">Crystal Palace</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">247</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">253</data>
+      <data key="v_label">Cardiff City</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">253</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">275</data>
+      <data key="v_label">Watford</data>
+      <data key="v_League">England Premier League</data>
+      <data key="v_id">275</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">283</data>
+      <data key="v_label">Uniao da Madeira</data>
+      <data key="v_League">Portugal Liga ZON Sagres</data>
+      <data key="v_id">283</data>
+    </node>
+    <edge source="n0" target="n4">
+      <data key="e_Fee">17.1</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_Fee">11.7</data>
+    </edge>
+    <edge source="n2" target="n4">
+      <data key="e_Fee">0.36</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_Fee">5.58</data>
+    </edge>
+    <edge source="n4" target="n5">
+      <data key="e_Fee">13.5</data>
+    </edge>
+    <edge source="n4" target="n6">
+      <data key="e_Fee">19.37</data>
+    </edge>
+    <edge source="n4" target="n7">
+      <data key="e_Fee">11.34</data>
+    </edge>
+    <edge source="n4" target="n8">
+      <data key="e_Fee">22.5</data>
+    </edge>
+    <edge source="n4" target="n9">
+      <data key="e_Fee">27</data>
+    </edge>
+    <edge source="n4" target="n10">
+      <data key="e_Fee">36.09</data>
+    </edge>
+    <edge source="n4" target="n11">
+      <data key="e_Fee">12.38</data>
+    </edge>
+    <edge source="n4" target="n12">
+      <data key="e_Fee">0.27</data>
+    </edge>
+    <edge source="n4" target="n13">
+      <data key="e_Fee">129.38</data>
+    </edge>
+    <edge source="n4" target="n14">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n15">
+      <data key="e_Fee">7.34</data>
+    </edge>
+    <edge source="n4" target="n16">
+      <data key="e_Fee">4.5</data>
+    </edge>
+    <edge source="n4" target="n17">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n18">
+      <data key="e_Fee">15.03</data>
+    </edge>
+    <edge source="n4" target="n19">
+      <data key="e_Fee">9.45</data>
+    </edge>
+    <edge source="n4" target="n20">
+      <data key="e_Fee">6.3</data>
+    </edge>
+    <edge source="n4" target="n21">
+      <data key="e_Fee">17.75</data>
+    </edge>
+    <edge source="n4" target="n22">
+      <data key="e_Fee">9</data>
+    </edge>
+    <edge source="n4" target="n23">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n24">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n25">
+      <data key="e_Fee">18.27</data>
+    </edge>
+    <edge source="n4" target="n26">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n27">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n28">
+      <data key="e_Fee">27</data>
+    </edge>
+    <edge source="n4" target="n29">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n30">
+      <data key="e_Fee">7.74</data>
+    </edge>
+    <edge source="n4" target="n31">
+      <data key="e_Fee">5.31</data>
+    </edge>
+    <edge source="n4" target="n32">
+      <data key="e_Fee">14.4</data>
+    </edge>
+    <edge source="n4" target="n33">
+      <data key="e_Fee">28.9</data>
+    </edge>
+    <edge source="n4" target="n34">
+      <data key="e_Fee">1.08</data>
+    </edge>
+    <edge source="n4" target="n35">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n36">
+      <data key="e_Fee">4.41</data>
+    </edge>
+    <edge source="n4" target="n37">
+      <data key="e_Fee">23.4</data>
+    </edge>
+    <edge source="n4" target="n38">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n39">
+      <data key="e_Fee">27.495</data>
+    </edge>
+    <edge source="n4" target="n40">
+      <data key="e_Fee">1.58</data>
+    </edge>
+    <edge source="n4" target="n41">
+      <data key="e_Fee">5.05</data>
+    </edge>
+    <edge source="n4" target="n42">
+      <data key="e_Fee">4.24</data>
+    </edge>
+    <edge source="n4" target="n43">
+      <data key="e_Fee">1.53</data>
+    </edge>
+    <edge source="n4" target="n44">
+      <data key="e_Fee">9.9</data>
+    </edge>
+    <edge source="n4" target="n45">
+      <data key="e_Fee">5.4</data>
+    </edge>
+    <edge source="n4" target="n46">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n47">
+      <data key="e_Fee">1</data>
+    </edge>
+    <edge source="n4" target="n48">
+      <data key="e_Fee">7.25</data>
+    </edge>
+    <edge source="n4" target="n49">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n50">
+      <data key="e_Fee">32.45</data>
+    </edge>
+    <edge source="n4" target="n51">
+      <data key="e_Fee">14.4</data>
+    </edge>
+    <edge source="n4" target="n52">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n53">
+      <data key="e_Fee">0.5</data>
+    </edge>
+    <edge source="n4" target="n54">
+      <data key="e_Fee">8.24</data>
+    </edge>
+    <edge source="n4" target="n55">
+      <data key="e_Fee">8.01</data>
+    </edge>
+    <edge source="n4" target="n56">
+      <data key="e_Fee">12.6</data>
+    </edge>
+  </graph>
+</graphml>

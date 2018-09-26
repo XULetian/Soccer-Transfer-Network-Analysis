@@ -1,0 +1,3823 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="name" attr.type="string" for="node" id="v_name"/>
+<key attr.name="League" attr.type="string" for="node" id="v_league"/>
+<key attr.name="lat" attr.type="double" for="node" id="v_lat"/>
+<key attr.name="lng" attr.type="double" for="node" id="v_lng"/>
+<key attr.name="In-Degree" attr.type="int" for="node" id="indegree"/>
+<key attr.name="Out-Degree" attr.type="int" for="node" id="outdegree"/>
+<key attr.name="Degree" attr.type="int" for="node" id="degree"/>
+<key attr.name="Eccentricity" attr.type="double" for="node" id="eccentricity"/>
+<key attr.name="Closeness Centrality" attr.type="double" for="node" id="closnesscentrality"/>
+<key attr.name="Harmonic Closeness Centrality" attr.type="double" for="node" id="harmonicclosnesscentrality"/>
+<key attr.name="Betweenness Centrality" attr.type="double" for="node" id="betweenesscentrality"/>
+<key attr.name="Modularity Class" attr.type="int" for="node" id="modularity_class"/>
+<key attr.name="Weight" attr.type="double" for="edge" id="e_weight"/>
+<key attr.name="type" attr.type="double" for="edge" id="e_type"/>
+<graph edgedefault="directed">
+<node id="n13">
+<data key="label">West Ham United</data>
+<data key="v_name">14</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">51.538611</data>
+<data key="v_lng">-0.016389</data>
+<data key="indegree">42</data>
+<data key="outdegree">34</data>
+<data key="degree">76</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.48464163822525597</data>
+<data key="harmonicclosnesscentrality">0.5293427230046946</data>
+<data key="betweenesscentrality">1301.7831079522405</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-298.55737</data>
+<data key="y">-22.48643</data>
+</node>
+<node id="n15">
+<data key="label">Tottenham Hotspur</data>
+<data key="v_name">16</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">51.556</data>
+<data key="v_lng">-0.2795</data>
+<data key="indegree">34</data>
+<data key="outdegree">33</data>
+<data key="degree">67</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.4717607973421927</data>
+<data key="harmonicclosnesscentrality">0.5187793427230046</data>
+<data key="betweenesscentrality">863.5320827900047</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">189.22449</data>
+<data key="y">502.55533</data>
+</node>
+<node id="n17">
+<data key="label">Wigan Athletic</data>
+<data key="v_name">18</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">53.5451</data>
+<data key="v_lng">-2.6325</data>
+<data key="indegree">24</data>
+<data key="outdegree">23</data>
+<data key="degree">47</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.44654088050314467</data>
+<data key="harmonicclosnesscentrality">0.48708920187793403</data>
+<data key="betweenesscentrality">751.0057099250022</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">130.59802</data>
+<data key="y">437.80142</data>
+</node>
+<node id="n18">
+<data key="label">Motherwell</data>
+<data key="v_name">19</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">55.7832</data>
+<data key="v_lng">-3.9811</data>
+<data key="indegree">9</data>
+<data key="outdegree">17</data>
+<data key="degree">26</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.390646492434663</data>
+<data key="harmonicclosnesscentrality">0.42840375586854357</data>
+<data key="betweenesscentrality">282.27865229420837</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-268.23672</data>
+<data key="y">511.57144</data>
+</node>
+<node id="n19">
+<data key="label">Rangers</data>
+<data key="v_name">20</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">55.8642</data>
+<data key="v_lng">-4.2518</data>
+<data key="indegree">11</data>
+<data key="outdegree">23</data>
+<data key="degree">34</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.44305772230889234</data>
+<data key="harmonicclosnesscentrality">0.4850352112676055</data>
+<data key="betweenesscentrality">633.7921875359394</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">101.30707</data>
+<data key="y">424.80026</data>
+</node>
+<node id="n20">
+<data key="label">Sunderland</data>
+<data key="v_name">21</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">54.9069</data>
+<data key="v_lng">-1.3838</data>
+<data key="indegree">35</data>
+<data key="outdegree">39</data>
+<data key="degree">74</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.48547008547008547</data>
+<data key="harmonicclosnesscentrality">0.5360915492957745</data>
+<data key="betweenesscentrality">995.498149347706</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">283.6336</data>
+<data key="y">-157.54509</data>
+</node>
+<node id="n35">
+<data key="label">Newcastle United</data>
+<data key="v_name">36</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">54.9783</data>
+<data key="v_lng">-1.6178</data>
+<data key="indegree">30</data>
+<data key="outdegree">25</data>
+<data key="degree">55</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.43558282208588955</data>
+<data key="harmonicclosnesscentrality">0.48034037558685394</data>
+<data key="betweenesscentrality">642.9769519367152</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">375.30377</data>
+<data key="y">-438.81702</data>
+</node>
+<node id="n39">
+<data key="label">Portsmouth</data>
+<data key="v_name">40</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">50.8198</data>
+<data key="v_lng">-1.088</data>
+<data key="indegree">10</data>
+<data key="outdegree">23</data>
+<data key="degree">33</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4479495268138801</data>
+<data key="harmonicclosnesscentrality">0.48855633802816884</data>
+<data key="betweenesscentrality">142.47388026529424</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-48.383755</data>
+<data key="y">509.0306</data>
+</node>
+<node id="n40">
+<data key="label">Manchester City</data>
+<data key="v_name">41</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">53.483056</data>
+<data key="v_lng">-2.200278</data>
+<data key="indegree">26</data>
+<data key="outdegree">30</data>
+<data key="degree">56</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.4717607973421927</data>
+<data key="harmonicclosnesscentrality">0.5152582159624413</data>
+<data key="betweenesscentrality">341.364480638019</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">238.50714</data>
+<data key="y">-212.32655</data>
+</node>
+<node id="n50">
+<data key="label">West Bromwich Albion</data>
+<data key="v_name">51</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">52.5177</data>
+<data key="v_lng">1.9952</data>
+<data key="indegree">24</data>
+<data key="outdegree">24</data>
+<data key="degree">48</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.45222929936305734</data>
+<data key="harmonicclosnesscentrality">0.4929577464788729</data>
+<data key="betweenesscentrality">528.4502546840525</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-96.20566</data>
+<data key="y">-331.95914</data>
+</node>
+<node id="n53">
+<data key="label">Middlesbrough</data>
+<data key="v_name">54</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">54.5742</data>
+<data key="v_lng">-1.235</data>
+<data key="indegree">1</data>
+<data key="outdegree">14</data>
+<data key="degree">15</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4139941690962099</data>
+<data key="harmonicclosnesscentrality">0.44776995305164213</data>
+<data key="betweenesscentrality">7.720292995193028</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-254.02313</data>
+<data key="y">-108.27216</data>
+</node>
+<node id="n54">
+<data key="label">Hibernian</data>
+<data key="v_name">55</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">55.9755</data>
+<data key="v_lng">-3.1665</data>
+<data key="indegree">17</data>
+<data key="outdegree">20</data>
+<data key="degree">37</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4296520423600605</data>
+<data key="harmonicclosnesscentrality">0.46977699530516387</data>
+<data key="betweenesscentrality">660.9270125212926</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">484.75922</data>
+<data key="y">-288.69156</data>
+</node>
+<node id="n72">
+<data key="label">Dundee United</data>
+<data key="v_name">73</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">56.462</data>
+<data key="v_lng">-2.9707</data>
+<data key="indegree">14</data>
+<data key="outdegree">15</data>
+<data key="degree">29</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3917241379310345</data>
+<data key="harmonicclosnesscentrality">0.42723004694835576</data>
+<data key="betweenesscentrality">501.1558421120362</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-175.69705</data>
+<data key="y">52.10921</data>
+</node>
+<node id="n73">
+<data key="label">Wolverhampton Wanderers</data>
+<data key="v_name">74</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">52.587</data>
+<data key="v_lng">-2.1288</data>
+<data key="indegree">13</data>
+<data key="outdegree">14</data>
+<data key="degree">27</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.42011834319526625</data>
+<data key="harmonicclosnesscentrality">0.4548122065727691</data>
+<data key="betweenesscentrality">172.19490441197073</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">386.11908</data>
+<data key="y">214.87563</data>
+</node>
+<node id="n81">
+<data key="label">Liverpool</data>
+<data key="v_name">82</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">53.4084</data>
+<data key="v_lng">-2.9916</data>
+<data key="indegree">34</data>
+<data key="outdegree">35</data>
+<data key="degree">69</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.4863013698630137</data>
+<data key="harmonicclosnesscentrality">0.5316901408450706</data>
+<data key="betweenesscentrality">940.3306269735223</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-382.08704</data>
+<data key="y">-186.471</data>
+</node>
+<node id="n88">
+<data key="label">Hull City</data>
+<data key="v_name">89</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">53.7457</data>
+<data key="v_lng">-0.3367</data>
+<data key="indegree">20</data>
+<data key="outdegree">16</data>
+<data key="degree">36</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.42074074074074075</data>
+<data key="harmonicclosnesscentrality">0.4568661971830978</data>
+<data key="betweenesscentrality">672.9999946353189</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-249.25626</data>
+<data key="y">-215.03581</data>
+</node>
+<node id="n98">
+<data key="label">Manchester United</data>
+<data key="v_name">99</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">53.463056</data>
+<data key="v_lng">-2.291389</data>
+<data key="indegree">22</data>
+<data key="outdegree">23</data>
+<data key="degree">45</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4573268921095008</data>
+<data key="harmonicclosnesscentrality">0.4961854460093895</data>
+<data key="betweenesscentrality">213.53941788875628</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">61.350834</data>
+<data key="y">-208.97923</data>
+</node>
+<node id="n100">
+<data key="label">Arsenal</data>
+<data key="v_name">101</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">51.5549</data>
+<data key="v_lng">0.1084</data>
+<data key="indegree">27</data>
+<data key="outdegree">23</data>
+<data key="degree">50</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4479495268138801</data>
+<data key="harmonicclosnesscentrality">0.4885563380281686</data>
+<data key="betweenesscentrality">355.10379697027076</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-439.8502</data>
+<data key="y">480.2073</data>
+</node>
+<node id="n104">
+<data key="label">Stoke City</data>
+<data key="v_name">105</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">52.9881</data>
+<data key="v_lng">2.1764</data>
+<data key="indegree">23</data>
+<data key="outdegree">14</data>
+<data key="degree">37</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4127906976744186</data>
+<data key="harmonicclosnesscentrality">0.44688967136150126</data>
+<data key="betweenesscentrality">291.5342573964406</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">282.2787</data>
+<data key="y">191.2358</data>
+</node>
+<node id="n106">
+<data key="label">Birmingham City</data>
+<data key="v_name">107</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">52.282</data>
+<data key="v_lng">-1.512</data>
+<data key="indegree">12</data>
+<data key="outdegree">15</data>
+<data key="degree">27</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4296520423600605</data>
+<data key="harmonicclosnesscentrality">0.46420187793427165</data>
+<data key="betweenesscentrality">138.54912618942018</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">81.52222</data>
+<data key="y">158.37355</data>
+</node>
+<node id="n113">
+<data key="label">Falkirk</data>
+<data key="v_name">114</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">56.0054</data>
+<data key="v_lng">-3.7526</data>
+<data key="indegree">4</data>
+<data key="outdegree">10</data>
+<data key="degree">14</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.34549878345498786</data>
+<data key="harmonicclosnesscentrality">0.3743544600938958</data>
+<data key="betweenesscentrality">59.09863471385856</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">186.41357</data>
+<data key="y">313.207</data>
+</node>
+<node id="n128">
+<data key="label">Kilmarnock</data>
+<data key="v_name">129</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">55.61171</data>
+<data key="v_lng">-4.49581</data>
+<data key="indegree">16</data>
+<data key="outdegree">14</data>
+<data key="degree">30</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3917241379310345</data>
+<data key="harmonicclosnesscentrality">0.42605633802816795</data>
+<data key="betweenesscentrality">514.387145653006</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">64.7901</data>
+<data key="y">-362.23886</data>
+</node>
+<node id="n129">
+<data key="label">St. Johnstone FC</data>
+<data key="v_name">130</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">56.4099</data>
+<data key="v_lng">-3.4768</data>
+<data key="indegree">14</data>
+<data key="outdegree">11</data>
+<data key="degree">25</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.35813366960907944</data>
+<data key="harmonicclosnesscentrality">0.38714788732394256</data>
+<data key="betweenesscentrality">218.83698763954243</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">379.1175</data>
+<data key="y">-241.27618</data>
+</node>
+<node id="n135">
+<data key="label">Fulham</data>
+<data key="v_name">136</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">51.4749</data>
+<data key="v_lng">0.2218</data>
+<data key="indegree">29</data>
+<data key="outdegree">30</data>
+<data key="degree">59</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.4838160136286201</data>
+<data key="harmonicclosnesscentrality">0.5240610328638498</data>
+<data key="betweenesscentrality">667.4077658700767</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">138.94751</data>
+<data key="y">-30.592386</data>
+</node>
+<node id="n137">
+<data key="label">Celtic</data>
+<data key="v_name">138</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">55.8497</data>
+<data key="v_lng">-4.2055</data>
+<data key="indegree">29</data>
+<data key="outdegree">36</data>
+<data key="degree">65</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.48547008547008547</data>
+<data key="harmonicclosnesscentrality">0.5322769953051643</data>
+<data key="betweenesscentrality">1807.0726974311924</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-94.01721</data>
+<data key="y">186.89632</data>
+</node>
+<node id="n140">
+<data key="label">Chelsea</data>
+<data key="v_name">141</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">51.4817</data>
+<data key="v_lng">0.191</data>
+<data key="indegree">26</data>
+<data key="outdegree">30</data>
+<data key="degree">56</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.4573268921095008</data>
+<data key="harmonicclosnesscentrality">0.5041079812206571</data>
+<data key="betweenesscentrality">406.6052328635451</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-273.5956</data>
+<data key="y">-424.93832</data>
+</node>
+<node id="n144">
+<data key="label">Burnley</data>
+<data key="v_name">145</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">53.789</data>
+<data key="v_lng">2.2302</data>
+<data key="indegree">12</data>
+<data key="outdegree">9</data>
+<data key="degree">21</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.37967914438502676</data>
+<data key="harmonicclosnesscentrality">0.4087441314553981</data>
+<data key="betweenesscentrality">100.33813828862617</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-317.1778</data>
+<data key="y">322.31326</data>
+</node>
+<node id="n146">
+<data key="label">Hamilton Academical FC</data>
+<data key="v_name">147</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">55.77491857</data>
+<data key="v_lng">-4.054386449</data>
+<data key="indegree">10</data>
+<data key="outdegree">10</data>
+<data key="degree">20</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.36363636363636365</data>
+<data key="harmonicclosnesscentrality">0.3908450704225342</data>
+<data key="betweenesscentrality">392.4842646893686</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">360.27344</data>
+<data key="y">137.84358</data>
+</node>
+<node id="n164">
+<data key="label">Aston Villa</data>
+<data key="v_name">165</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">52.509167</data>
+<data key="v_lng">-1.884722</data>
+<data key="indegree">31</data>
+<data key="outdegree">25</data>
+<data key="degree">56</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4500792393026941</data>
+<data key="harmonicclosnesscentrality">0.49266431924882603</data>
+<data key="betweenesscentrality">627.0372370148112</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">208.81372</data>
+<data key="y">-306.54474</data>
+</node>
+<node id="n166">
+<data key="label">Heart of Midlothian</data>
+<data key="v_name">167</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">55.939167</data>
+<data key="v_lng">-3.232222</data>
+<data key="indegree">16</data>
+<data key="outdegree">16</data>
+<data key="degree">32</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3917241379310345</data>
+<data key="harmonicclosnesscentrality">0.42811032863849646</data>
+<data key="betweenesscentrality">675.1798922022053</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">126.558655</data>
+<data key="y">-171.61473</data>
+</node>
+<node id="n167">
+<data key="label">Bolton Wanderers</data>
+<data key="v_name">168</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">53.580556</data>
+<data key="v_lng">-2.535556</data>
+<data key="indegree">12</data>
+<data key="outdegree">17</data>
+<data key="degree">29</data>
+<data key="eccentricity">3.0</data>
+<data key="closnesscentrality">0.45151033386327505</data>
+<data key="harmonicclosnesscentrality">0.4841549295774646</data>
+<data key="betweenesscentrality">187.91417328654927</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">413.37286</data>
+<data key="y">-233.55962</data>
+</node>
+<node id="n170">
+<data key="label">Everton</data>
+<data key="v_name">171</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">53.438889</data>
+<data key="v_lng">-2.966389</data>
+<data key="indegree">20</data>
+<data key="outdegree">20</data>
+<data key="degree">40</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.43759630200308164</data>
+<data key="harmonicclosnesscentrality">0.47652582159624346</data>
+<data key="betweenesscentrality">355.8681356262611</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">462.5822</data>
+<data key="y">332.90274</data>
+</node>
+<node id="n175">
+<data key="label">Blackburn Rovers</data>
+<data key="v_name">176</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">53.728611</data>
+<data key="v_lng">-2.489167</data>
+<data key="indegree">11</data>
+<data key="outdegree">24</data>
+<data key="degree">35</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.45151033386327505</data>
+<data key="harmonicclosnesscentrality">0.49266431924882614</data>
+<data key="betweenesscentrality">225.36323834006876</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-331.04178</data>
+<data key="y">176.63838</data>
+</node>
+<node id="n176">
+<data key="label">St. Mirren</data>
+<data key="v_name">177</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">55.850556</data>
+<data key="v_lng">-4.443889</data>
+<data key="indegree">17</data>
+<data key="outdegree">12</data>
+<data key="degree">29</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3463414634146341</data>
+<data key="harmonicclosnesscentrality">0.3783450704225344</data>
+<data key="betweenesscentrality">354.09726979308135</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">34.76337</data>
+<data key="y">-438.28244</data>
+</node>
+<node id="n191">
+<data key="label">Inverness Caledonian Thistle</data>
+<data key="v_name">192</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">57.4935851</data>
+<data key="v_lng">-4.2276661</data>
+<data key="indegree">6</data>
+<data key="outdegree">14</data>
+<data key="degree">20</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3731931668856767</data>
+<data key="harmonicclosnesscentrality">0.4066901408450695</data>
+<data key="betweenesscentrality">97.28075786669726</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-74.6496</data>
+<data key="y">-452.28503</data>
+</node>
+<node id="n194">
+<data key="label">Blackpool</data>
+<data key="v_name">195</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">53.804722</data>
+<data key="v_lng">-3.048056</data>
+<data key="indegree">6</data>
+<data key="outdegree">8</data>
+<data key="degree">14</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.38850889192886456</data>
+<data key="harmonicclosnesscentrality">0.4157863849765248</data>
+<data key="betweenesscentrality">28.395377229902703</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-488.10104</data>
+<data key="y">-172.57219</data>
+</node>
+<node id="n195">
+<data key="label">Aberdeen</data>
+<data key="v_name">196</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">57.159167</data>
+<data key="v_lng">-2.088889</data>
+<data key="indegree">12</data>
+<data key="outdegree">15</data>
+<data key="degree">27</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3874488403819918</data>
+<data key="harmonicclosnesscentrality">0.42312206572769856</data>
+<data key="betweenesscentrality">324.2215731330335</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-448.0481</data>
+<data key="y">19.479391</data>
+</node>
+<node id="n218">
+<data key="label">Dunfermline Athletic</data>
+<data key="v_name">219</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">56.0717</data>
+<data key="v_lng">-3.4522</data>
+<data key="indegree">7</data>
+<data key="outdegree">3</data>
+<data key="degree">10</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.31072210065645517</data>
+<data key="harmonicclosnesscentrality">0.32781690140845043</data>
+<data key="betweenesscentrality">15.003043384513207</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-207.5037</data>
+<data key="y">383.7833</data>
+</node>
+<node id="n219">
+<data key="label">Norwich City</data>
+<data key="v_name">220</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">52.6309</data>
+<data key="v_lng">1.2974</data>
+<data key="indegree">24</data>
+<data key="outdegree">13</data>
+<data key="degree">37</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.39118457300275483</data>
+<data key="harmonicclosnesscentrality">0.4254694835680743</data>
+<data key="betweenesscentrality">631.6085364627177</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-252.3656</data>
+<data key="y">80.27517</data>
+</node>
+<node id="n220">
+<data key="label">Queens Park Rangers</data>
+<data key="v_name">221</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">51.5093</data>
+<data key="v_lng">-0.2321</data>
+<data key="indegree">27</data>
+<data key="outdegree">16</data>
+<data key="degree">43</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.42835595776772245</data>
+<data key="harmonicclosnesscentrality">0.4633215962441308</data>
+<data key="betweenesscentrality">357.37491146783555</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">194.36237</data>
+<data key="y">343.98215</data>
+</node>
+<node id="n228">
+<data key="label">Swansea City</data>
+<data key="v_name">229</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">51.6214</data>
+<data key="v_lng">-3.9436</data>
+<data key="indegree">32</data>
+<data key="outdegree">14</data>
+<data key="degree">46</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4176470588235294</data>
+<data key="harmonicclosnesscentrality">0.4524647887323935</data>
+<data key="betweenesscentrality">462.0283571769611</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">397.19196</data>
+<data key="y">431.0087</data>
+</node>
+<node id="n235">
+<data key="label">Southampton</data>
+<data key="v_name">236</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">50.9097</data>
+<data key="v_lng">-1.4044</data>
+<data key="indegree">21</data>
+<data key="outdegree">12</data>
+<data key="degree">33</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.4062947067238913</data>
+<data key="harmonicclosnesscentrality">0.43955399061032757</data>
+<data key="betweenesscentrality">214.451369555562</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-292.42505</data>
+<data key="y">398.9855</data>
+</node>
+<node id="n242">
+<data key="label">Dundee FC</data>
+<data key="v_name">243</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">56.462</data>
+<data key="v_lng">-2.9707</data>
+<data key="indegree">12</data>
+<data key="outdegree">5</data>
+<data key="degree">17</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.29894736842105263</data>
+<data key="harmonicclosnesscentrality">0.31872065727699506</data>
+<data key="betweenesscentrality">20.516106693833994</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">245.46655</data>
+<data key="y">-311.48056</data>
+</node>
+<node id="n244">
+<data key="label">Reading</data>
+<data key="v_name">245</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">51.4543</data>
+<data key="v_lng">-0.9781</data>
+<data key="indegree">7</data>
+<data key="outdegree">4</data>
+<data key="degree">11</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.343409915356711</data>
+<data key="harmonicclosnesscentrality">0.36384976525821516</data>
+<data key="betweenesscentrality">18.0587365989917</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-67.091095</data>
+<data key="y">-36.349163</data>
+</node>
+<node id="n245">
+<data key="label">Ross County FC</data>
+<data key="v_name">246</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">57.4596</data>
+<data key="v_lng">-4.2264</data>
+<data key="indegree">19</data>
+<data key="outdegree">4</data>
+<data key="degree">23</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.3103825136612022</data>
+<data key="harmonicclosnesscentrality">0.3295774647887319</data>
+<data key="betweenesscentrality">84.82594581776114</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-379.2791</data>
+<data key="y">-292.3136</data>
+</node>
+<node id="n246">
+<data key="label">Crystal Palace</data>
+<data key="v_name">247</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">51.3932</data>
+<data key="v_lng">-0.0874</data>
+<data key="indegree">25</data>
+<data key="outdegree">6</data>
+<data key="degree">31</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.3604060913705584</data>
+<data key="harmonicclosnesscentrality">0.3840962441314544</data>
+<data key="betweenesscentrality">105.4994478792297</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-52.406246</data>
+<data key="y">445.55246</data>
+</node>
+<node id="n252">
+<data key="label">Cardiff City</data>
+<data key="v_name">253</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">51.4816</data>
+<data key="v_lng">-3.1791</data>
+<data key="indegree">11</data>
+<data key="outdegree">9</data>
+<data key="degree">20</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.40863309352517985</data>
+<data key="harmonicclosnesscentrality">0.4369131455399052</data>
+<data key="betweenesscentrality">104.11357786858152</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-10.509336</data>
+<data key="y">-15.383432</data>
+</node>
+<node id="n256">
+<data key="label">Partick Thistle F.C.</data>
+<data key="v_name">257</data>
+<data key="v_league">Scotland Premier League</data>
+<data key="v_lat">55.8642</data>
+<data key="v_lng">-4.2518</data>
+<data key="indegree">13</data>
+<data key="outdegree">5</data>
+<data key="degree">18</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.35018495684340323</data>
+<data key="harmonicclosnesscentrality">0.3705985915492947</data>
+<data key="betweenesscentrality">195.46118905570376</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">297.216</data>
+<data key="y">503.22153</data>
+</node>
+<node id="n267">
+<data key="label">Leicester City</data>
+<data key="v_name">268</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">52.6204</data>
+<data key="v_lng">-1.1422</data>
+<data key="indegree">14</data>
+<data key="outdegree">3</data>
+<data key="degree">17</data>
+<data key="eccentricity">4.0</data>
+<data key="closnesscentrality">0.35994930291508237</data>
+<data key="harmonicclosnesscentrality">0.3802816901408442</data>
+<data key="betweenesscentrality">39.270912479314795</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">377.32227</data>
+<data key="y">392.51144</data>
+</node>
+<node id="n273">
+<data key="label">Bournemouth</data>
+<data key="v_name">274</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">50.7192</data>
+<data key="v_lng">-1.8808</data>
+<data key="indegree">9</data>
+<data key="outdegree">1</data>
+<data key="degree">10</data>
+<data key="eccentricity">5.0</data>
+<data key="closnesscentrality">0.2814667988107037</data>
+<data key="harmonicclosnesscentrality">0.2937206572769953</data>
+<data key="betweenesscentrality">3.5542919236137953</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">-122.58334</data>
+<data key="y">111.20467</data>
+</node>
+<node id="n274">
+<data key="label">Watford</data>
+<data key="v_name">275</data>
+<data key="v_league">England Premier League</data>
+<data key="v_lat">51.6565</data>
+<data key="v_lng">-0.3903</data>
+<data key="indegree">16</data>
+<data key="outdegree">0</data>
+<data key="degree">16</data>
+<data key="eccentricity">0.0</data>
+<data key="closnesscentrality">0.0</data>
+<data key="harmonicclosnesscentrality">0.0</data>
+<data key="betweenesscentrality">0.0</data>
+<data key="modularity_class">5</data>
+<data key="size">10.0</data>
+<data key="r">105</data>
+<data key="g">196</data>
+<data key="b">4</data>
+<data key="x">113.1651</data>
+<data key="y">233.00404</data>
+</node>
+<edge id="11447" source="n13" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11448" source="n13" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11451" source="n13" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11457" source="n13" target="n72">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11459" source="n13" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11461" source="n13" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11464" source="n13" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11465" source="n13" target="n106">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11466" source="n13" target="n144">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11468" source="n13" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11469" source="n13" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11474" source="n13" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11475" source="n13" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11477" source="n13" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11480" source="n13" target="n273">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11496" source="n15" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11497" source="n15" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">6.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11498" source="n15" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11499" source="n15" target="n39">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11503" source="n15" target="n73">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11504" source="n15" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11506" source="n15" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11507" source="n15" target="n106">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11511" source="n15" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11512" source="n15" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11514" source="n15" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11515" source="n15" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11516" source="n15" target="n175">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11518" source="n15" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11520" source="n15" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11521" source="n15" target="n244">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11522" source="n15" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11523" source="n15" target="n252">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11524" source="n15" target="n274">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11542" source="n17" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11543" source="n17" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11544" source="n17" target="n39">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11545" source="n17" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11546" source="n17" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11547" source="n17" target="n98">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11548" source="n17" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11550" source="n17" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11552" source="n17" target="n140">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11553" source="n17" target="n144">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11554" source="n17" target="n146">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11556" source="n17" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11557" source="n17" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11559" source="n17" target="n194">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11561" source="n17" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11562" source="n17" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11563" source="n17" target="n274">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11564" source="n18" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11566" source="n18" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11567" source="n18" target="n72">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11569" source="n18" target="n113">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11570" source="n18" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11571" source="n18" target="n144">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11572" source="n18" target="n166">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11573" source="n18" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11575" source="n18" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11576" source="n18" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11577" source="n18" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11578" source="n18" target="n244">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11579" source="n18" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11580" source="n18" target="n256">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11584" source="n19" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11587" source="n19" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11588" source="n19" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11589" source="n19" target="n106">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11590" source="n19" target="n128">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11591" source="n19" target="n166">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11592" source="n19" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11593" source="n19" target="n194">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11594" source="n19" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11596" source="n19" target="n218">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11597" source="n19" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11598" source="n19" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11600" source="n19" target="n235">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11601" source="n19" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11603" source="n19" target="n256">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="11605" source="n20" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11606" source="n20" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11607" source="n20" target="n19">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11610" source="n20" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11611" source="n20" target="n39">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11612" source="n20" target="n40">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11615" source="n20" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11617" source="n20" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11621" source="n20" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11622" source="n20" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11624" source="n20" target="n100">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11625" source="n20" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11626" source="n20" target="n106">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11627" source="n20" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11628" source="n20" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="11632" source="n20" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11634" source="n20" target="n175">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11636" source="n20" target="n194">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11637" source="n20" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11638" source="n20" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11641" source="n20" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11642" source="n20" target="n252">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11982" source="n35" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11983" source="n35" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11984" source="n35" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11987" source="n35" target="n40">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11990" source="n35" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11991" source="n35" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11992" source="n35" target="n98">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11993" source="n35" target="n100">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11995" source="n35" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11996" source="n35" target="n140">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11997" source="n35" target="n144">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="11998" source="n35" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12000" source="n35" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12001" source="n35" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12002" source="n35" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12003" source="n35" target="n244">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12005" source="n35" target="n267">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12006" source="n35" target="n273">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12092" source="n39" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12093" source="n39" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12098" source="n39" target="n73">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12100" source="n39" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12102" source="n39" target="n100">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12103" source="n39" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12106" source="n39" target="n144">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12107" source="n39" target="n167">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12108" source="n39" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12111" source="n39" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12112" source="n39" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12113" source="n39" target="n273">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12116" source="n40" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12117" source="n40" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12118" source="n40" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">6.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12119" source="n40" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12125" source="n40" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12130" source="n40" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12133" source="n40" target="n106">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12136" source="n40" target="n140">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12138" source="n40" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12139" source="n40" target="n167">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12140" source="n40" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12141" source="n40" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="12142" source="n40" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12408" source="n50" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12409" source="n50" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12412" source="n50" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12414" source="n50" target="n113">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="12416" source="n50" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12417" source="n50" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="12418" source="n50" target="n144">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12420" source="n50" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12421" source="n50" target="n166">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="12422" source="n50" target="n167">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12423" source="n50" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12426" source="n50" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12427" source="n50" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12428" source="n50" target="n244">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12429" source="n50" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12430" source="n50" target="n252">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12478" source="n53" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12479" source="n53" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12481" source="n53" target="n40">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12482" source="n53" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="12483" source="n53" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12486" source="n53" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12487" source="n53" target="n140">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12488" source="n53" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12489" source="n53" target="n167">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12490" source="n53" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12491" source="n53" target="n252">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="12493" source="n54" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="12494" source="n54" target="n18">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12495" source="n54" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="12497" source="n54" target="n72">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12500" source="n54" target="n128">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12501" source="n54" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">5.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12502" source="n54" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12504" source="n54" target="n144">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="12505" source="n54" target="n146">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12507" source="n54" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12508" source="n54" target="n191">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12509" source="n54" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">6.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12510" source="n54" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12511" source="n54" target="n256">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12986" source="n72" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12987" source="n72" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="12988" source="n72" target="n113">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12989" source="n72" target="n128">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12990" source="n72" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">7.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12991" source="n72" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">6.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12992" source="n72" target="n146">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12994" source="n72" target="n166">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12995" source="n72" target="n175">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="12996" source="n72" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12998" source="n72" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="12999" source="n72" target="n256">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="13001" source="n73" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13002" source="n73" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13003" source="n73" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13005" source="n73" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13008" source="n73" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13009" source="n73" target="n144">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13010" source="n73" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13011" source="n73" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13013" source="n73" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13129" source="n81" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13130" source="n81" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13131" source="n81" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13134" source="n81" target="n39">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13135" source="n81" target="n40">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13139" source="n81" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13143" source="n81" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13146" source="n81" target="n140">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13149" source="n81" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13150" source="n81" target="n166">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="13151" source="n81" target="n167">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13155" source="n81" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13157" source="n81" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13159" source="n81" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13160" source="n81" target="n252">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13161" source="n81" target="n267">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13333" source="n88" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13334" source="n88" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13335" source="n88" target="n19">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="13336" source="n88" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13337" source="n88" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13338" source="n88" target="n53">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13340" source="n88" target="n73">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13342" source="n88" target="n144">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13343" source="n88" target="n167">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13347" source="n88" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13348" source="n88" target="n235">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13568" source="n98" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13569" source="n98" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13570" source="n98" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13571" source="n98" target="n40">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13574" source="n98" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13576" source="n98" target="n106">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13580" source="n98" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13581" source="n98" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="13582" source="n98" target="n140">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13584" source="n98" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13585" source="n98" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13587" source="n98" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13588" source="n98" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13610" source="n100" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13611" source="n100" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13612" source="n100" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13615" source="n100" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13617" source="n100" target="n40">
+<data key="weight">1.0</data>
+<data key="e_weight">5.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13619" source="n100" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13620" source="n100" target="n73">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13623" source="n100" target="n98">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13630" source="n100" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13632" source="n100" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13692" source="n104" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13693" source="n104" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13694" source="n104" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="13695" source="n104" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13696" source="n104" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13697" source="n104" target="n140">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13698" source="n104" target="n144">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13700" source="n104" target="n194">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13701" source="n104" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="13702" source="n104" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13703" source="n104" target="n252">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13704" source="n104" target="n267">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13726" source="n106" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13727" source="n106" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13728" source="n106" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13729" source="n106" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="13731" source="n106" target="n73">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13733" source="n106" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13734" source="n106" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13736" source="n106" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13738" source="n106" target="n175">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13740" source="n106" target="n252">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="13883" source="n113" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="13884" source="n113" target="n72">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="13885" source="n113" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="13886" source="n113" target="n144">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="13887" source="n113" target="n166">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="13888" source="n113" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="13889" source="n113" target="n191">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="13892" source="n113" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14256" source="n128" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14257" source="n128" target="n18">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14258" source="n128" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14259" source="n128" target="n72">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14262" source="n128" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14263" source="n128" target="n146">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14264" source="n128" target="n166">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14265" source="n128" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14268" source="n128" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14269" source="n128" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14270" source="n129" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14271" source="n129" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14272" source="n129" target="n128">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14273" source="n129" target="n166">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14274" source="n129" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14275" source="n129" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14277" source="n129" target="n218">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14278" source="n129" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14279" source="n129" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14280" source="n129" target="n256">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14400" source="n135" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14403" source="n135" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14405" source="n135" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14406" source="n135" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14408" source="n135" target="n98">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14410" source="n135" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14416" source="n135" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14417" source="n135" target="n140">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14421" source="n135" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14424" source="n135" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14425" source="n135" target="n244">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14426" source="n135" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14457" source="n137" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14458" source="n137" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14459" source="n137" target="n18">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14464" source="n137" target="n72">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14466" source="n137" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14470" source="n137" target="n128">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14471" source="n137" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14475" source="n137" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14476" source="n137" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14477" source="n137" target="n191">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14478" source="n137" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14479" source="n137" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14481" source="n137" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14483" source="n137" target="n235">
+<data key="weight">1.0</data>
+<data key="e_weight">5.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14486" source="n137" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14487" source="n137" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14488" source="n137" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14521" source="n140" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14523" source="n140" target="n40">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14527" source="n140" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14529" source="n140" target="n73">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14530" source="n140" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14531" source="n140" target="n98">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14532" source="n140" target="n100">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14536" source="n140" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14539" source="n140" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14540" source="n140" target="n167">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14541" source="n140" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14544" source="n140" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14545" source="n140" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14547" source="n140" target="n267">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14548" source="n140" target="n274">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14611" source="n144" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14612" source="n144" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14613" source="n144" target="n73">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14614" source="n144" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14615" source="n144" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14616" source="n144" target="n167">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14617" source="n144" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14618" source="n144" target="n235">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14619" source="n144" target="n267">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="14629" source="n146" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="14630" source="n146" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14631" source="n146" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14632" source="n146" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14633" source="n146" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14635" source="n146" target="n218">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14636" source="n146" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14637" source="n146" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="14638" source="n146" target="n256">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15071" source="n164" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15072" source="n164" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15073" source="n164" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15075" source="n164" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15076" source="n164" target="n40">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15077" source="n164" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15079" source="n164" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15080" source="n164" target="n98">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15081" source="n164" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15082" source="n164" target="n106">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15084" source="n164" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15085" source="n164" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15087" source="n164" target="n167">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15088" source="n164" target="n170">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15090" source="n164" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15092" source="n164" target="n235">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15093" source="n164" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15095" source="n164" target="n267">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15118" source="n166" target="n18">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15119" source="n166" target="n19">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15120" source="n166" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15121" source="n166" target="n72">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15122" source="n166" target="n73">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15125" source="n166" target="n128">
+<data key="weight">1.0</data>
+<data key="e_weight">7.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15126" source="n166" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15128" source="n166" target="n146">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15129" source="n166" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15130" source="n166" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15131" source="n166" target="n218">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15132" source="n166" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15133" source="n166" target="n256">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15135" source="n167" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15136" source="n167" target="n19">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15137" source="n167" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15140" source="n167" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15142" source="n167" target="n100">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15144" source="n167" target="n140">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15147" source="n167" target="n194">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15148" source="n167" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15150" source="n167" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15201" source="n170" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15202" source="n170" target="n18">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15203" source="n170" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15204" source="n170" target="n40">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15205" source="n170" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15206" source="n170" target="n73">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15207" source="n170" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15208" source="n170" target="n98">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15209" source="n170" target="n100">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15210" source="n170" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15211" source="n170" target="n175">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15214" source="n170" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15216" source="n170" target="n273">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15328" source="n175" target="n13">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15329" source="n175" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15330" source="n175" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15331" source="n175" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15332" source="n175" target="n39">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15333" source="n175" target="n40">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15334" source="n175" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15338" source="n175" target="n98">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15340" source="n175" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15341" source="n175" target="n106">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15342" source="n175" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15343" source="n175" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15344" source="n175" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15345" source="n175" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15348" source="n175" target="n244">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15349" source="n175" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15351" source="n176" target="n18">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15352" source="n176" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15353" source="n176" target="n128">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15354" source="n176" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15355" source="n176" target="n146">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15356" source="n176" target="n191">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15357" source="n176" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15358" source="n176" target="n218">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15359" source="n176" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15360" source="n176" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15361" source="n176" target="n256">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15608" source="n191" target="n17">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15609" source="n191" target="n18">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15610" source="n191" target="n54">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15611" source="n191" target="n72">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15612" source="n191" target="n73">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15613" source="n191" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15614" source="n191" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15615" source="n191" target="n146">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15616" source="n191" target="n166">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15617" source="n191" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15618" source="n191" target="n218">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15619" source="n191" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15620" source="n191" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">5.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15621" source="n191" target="n252">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15651" source="n194" target="n19">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15652" source="n194" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15654" source="n194" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15656" source="n194" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15657" source="n194" target="n235">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15658" source="n194" target="n274">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="15659" source="n195" target="n18">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15660" source="n195" target="n19">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15661" source="n195" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="15662" source="n195" target="n128">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15663" source="n195" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15664" source="n195" target="n137">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15665" source="n195" target="n146">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15666" source="n195" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15667" source="n195" target="n191">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15669" source="n195" target="n218">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15671" source="n195" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15672" source="n195" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="15673" source="n195" target="n256">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16003" source="n218" target="n19">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16004" source="n218" target="n242">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16005" source="n218" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16006" source="n219" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16008" source="n219" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16010" source="n219" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="16011" source="n219" target="n164">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16012" source="n219" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="16013" source="n219" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16014" source="n219" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16016" source="n219" target="n267">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16017" source="n219" target="n273">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16022" source="n220" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16024" source="n220" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16025" source="n220" target="n50">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16027" source="n220" target="n135">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16030" source="n220" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16032" source="n220" target="n235">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16033" source="n220" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16034" source="n220" target="n252">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16132" source="n228" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">5.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16133" source="n228" target="n20">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16134" source="n228" target="n35">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16135" source="n228" target="n40">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16137" source="n228" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16140" source="n228" target="n146">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="16141" source="n228" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="16144" source="n228" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16211" source="n235" target="n15">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16214" source="n235" target="n81">
+<data key="weight">1.0</data>
+<data key="e_weight">4.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16215" source="n235" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16216" source="n235" target="n98">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16217" source="n235" target="n100">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16220" source="n235" target="n228">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16221" source="n235" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16222" source="n235" target="n273">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16282" source="n242" target="n128">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16283" source="n242" target="n129">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16284" source="n242" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16285" source="n242" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16286" source="n242" target="n256">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16302" source="n244" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16303" source="n244" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16304" source="n244" target="n273">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16305" source="n245" target="n18">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16306" source="n245" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16307" source="n245" target="n195">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16308" source="n245" target="n256">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16309" source="n246" target="n88">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16311" source="n246" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16312" source="n246" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16313" source="n246" target="n273">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16314" source="n246" target="n274">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16390" source="n252" target="n104">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16393" source="n252" target="n166">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">0.0</data>
+</edge>
+<edge id="16395" source="n252" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16396" source="n252" target="n246">
+<data key="weight">1.0</data>
+<data key="e_weight">3.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16423" source="n256" target="n128">
+<data key="weight">1.0</data>
+<data key="e_weight">2.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16424" source="n256" target="n166">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16425" source="n256" target="n176">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16426" source="n256" target="n245">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">10.0</data>
+</edge>
+<edge id="16486" source="n267" target="n220">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+<edge id="16506" source="n273" target="n219">
+<data key="weight">1.0</data>
+<data key="e_weight">1.0</data>
+<data key="e_type">9.0</data>
+</edge>
+</graph>
+</graphml>
